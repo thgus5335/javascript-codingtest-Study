@@ -1,5 +1,6 @@
-// JadenCase 문자열 만들기
-
+/**
+ * JadenCase 문자열 만들기
+ */
 function solution(s) {
   return s
     .split(' ')

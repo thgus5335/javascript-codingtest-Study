@@ -1,5 +1,6 @@
-// 자릿수 더하기
-
+/**
+ * 자릿수 더하기
+ */
 function solution(n) {
   let answer = 0;
   let str = String(n);

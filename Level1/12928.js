@@ -1,5 +1,6 @@
-// 약수의 합
-
+/**
+ * 약수의 합
+ */
 function solution(n) {
   let sum = 0;
 
