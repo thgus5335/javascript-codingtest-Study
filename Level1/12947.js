@@ -1,5 +1,6 @@
-// 하샤드 수
-
+/**
+ * 하샤드 수
+ */
 function solution(x) {
   let sum = 0;
 

@@ -1,5 +1,6 @@
-// 콜라츠 추측
-
+/**
+ * 콜라츠 추측
+ */
 function solution(num) {
   let cnt = 0;
 
